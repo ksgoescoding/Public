@@ -7,6 +7,7 @@
 		"chi"		"您当前有 {highlight}{1} {default}业力。"
 		"de"		"Du hast {highlight}{1} {default}Karma."
 		"pl"		"Aktualnie masz {highlight}{1} {default}karmy."
+		"da"		"Du har {highlight}{1} {default}karma."
 	}
 
 	"TEAMS HAS BEEN SELECTED"
@@ -15,6 +16,7 @@
 		"chi"		"团队已选择。"
 		"de"		"Teams wurden ausgewählt."
 		"pl"		"Drużyny zostały wybrane."
+		"da"		"Holdende er blevet sat."
 	}
 
 	"MIN PLAYERS REQUIRED FOR PLAY"
@@ -24,6 +26,7 @@
 		"chi"		"当前需要 {highlight}{1} {default}名玩家才能开始游戏。"
 		"de"		"Wir brauchen {highlight}{1} {default}Spieler, um das Spiel zu starten."
 		"pl"		"Potrzebujemy {highlight}{1} {default}graczy, aby rozpocząć grę."
+		"da"		"Vi mangler {highlight}{1} {default}spillere for at starte spillet."
 	}
 
 	"Your Team is DETECTIVES"
@@ -32,6 +35,7 @@
 		"chi"		"您当前是{role d}警探{default}。"
 		"de"		"Du bist nun ein {role d}Detektiv{default}."
 		"pl"		"Twoja rola to {role d}Detektyw{default}."
+		"da2		"Du har nu rollen {role d}Detektiv{default}."
 	}
 
 	"Your Team is TRAITORS"
@@ -40,6 +44,7 @@
 		"chi"		"您当前是{role t}叛徒{default}。"
 		"de"		"Du bist nun ein {role t}Traitor{default}."
 		"pl"		"Twoja rola to {role t}Zdrajca{default}."
+		"da"		"Du har nu rollen {role t}Forræder{default}."
 	}
 
 	"Your Team is INNOCENTS"
@@ -48,6 +53,7 @@
 		"chi"		"您当前是{role i}平民{default}。"
 		"de"		"Du bist nun ein {role i}Innocent{default}."
 		"pl"		"Twoja rola to {role i}Niewinny{default}."
+		"da"		"Du har nu rollen {role i}Uskyldig{default}."
 	}
 
 	"Your credits is"
@@ -57,6 +63,7 @@
 		"chi"		"您有 {highlight}{1} {default}{2}点金钱。"
 		"de"		"Du hast {highlight}{1} {default}{2}."
 		"pl"		"Aktualnie masz {highlight}{1} {default}{2}."
+		"da"		"Du har {highlight}{1} {default}{2}."
 	}
 
 	"Your killer is a Traitor"
@@ -65,6 +72,7 @@
 		"chi"		"您被{role t}叛徒{default}击杀！"
 		"de"		"Du wurdest von ein {role t}Traitor{default} getötet!"
 		"pl"		"Zostałeś zabity przez {role t}Zdrajcę{default}!"
+		"da"		"Du blev dræbt af en {role t}Forædder{default}!"
 	}
 
 	"Your killer is a Detective"
@@ -73,6 +81,7 @@
 		"chi"		"您被{role d}警探{default}击杀！"
 		"de"		"Du wurdest von ein {role d}Detektiv{default} getötet!"
 		"pl"		"Zostałeś zabity przez {role d}Detektywa{default}!"
+		"da"		"Du blevet dræbt af en {role d}Detektiv{default}!"
 	}
 
 	"Your killer is an Innocent"
@@ -81,6 +90,7 @@
 		"chi"		"您被{role i}平民{default}击杀！"
 		"de"		"Du wurdest von einen {role i}Innocent{default} getötet!"
 		"pl"		"Zostałeś zabity przez {role i}Niewinnego{default}!"
+		"da"		"Du blev dræbt af en {role i}Uskyldig{default}!"
 	}
 
 	"You killed a Traitor"
@@ -89,6 +99,7 @@
 		"chi"		"您杀死了一名{role t}叛徒{default}！"
 		"de"		"Du hast ein {role t}Traitor{default} getötet!"
 		"pl"		"Zabiłeś {role t}Zdrajcę{default}!"
+		"da"		"Du dræbte en {role t}Forædder{default}!"
 	}
 
 	"You killed a Detective"
@@ -97,6 +108,7 @@
 		"chi"		"您杀死了一名{role d}警探{default}！"
 		"de"		"Du hast ein {role d}Detektiv{default} getötet!"
 		"pl"		"Zabiłeś {role d}Detektywa{default}!"
+		"da"		"Du dræbte en {role d}Detektiv{default}!"
 	}
 
 	"You killed an Innocent"
@@ -105,6 +117,7 @@
 		"chi"		"您杀死了一名{role i}平民{default}！"
 		"de"		"Du hast ein {role i}Innocent{default} getötet!"
 		"pl"		"Zabiłeś {role i}Niewinnego{default}!"
+		"da"		"Du dræbte en {role i}Uskyldig{default}!"
 	}
 
 	"You hurt a Traitor"
@@ -114,6 +127,7 @@
 		"chi"		"扫描完成：{player}{1} {default}是{role t}叛徒{default}！"
 		"de"		"Untersuchung abgeschlossen: {player}{1} {default}ist ein {role t}Traitor{default}!"
 		"pl"		"Skan ukończony: {player}{1} {default}jest {role t}Zdrajcą{default}!"
+		"da"		"Scanning gennemført: {player}{1} {default}er en {role t}Forædder{default}!"
 	}
 
 	"You hurt a Detective"
@@ -123,6 +137,7 @@
 		"chi"		"扫描完成：{player}{1} {default}是{role d}警探{default}！"
 		"de"		"Untersuchung abgeschlossen: {player}{1} {default}ist ein {role d}Detektiv{default}!"
 		"pl"		"Skan ukończony: {player}{1} {default}jest {role d}Detektywem{default}!"
+		"da"		"Scanning gennemført: {player}{1} {default}er en {role d}Detektiv{default}!"
 	}
 
 	"You hurt an Innocent"
@@ -132,6 +147,7 @@
 		"chi"		"扫描完成：{player}{1} {default}是{role i}平民{default}！"
 		"de"		"Untersuchung abgeschlossen: {player}{1} {default}ist ein {role i}Innocent{default}!"
 		"pl"		"Skan ukończony: {player}{1} {default}jest {role i}Niewinnym{default}!"
+		"da"		"Scanning gennemført: {player}{1} {default}er en {role i}Uskyldig{default}!"
 	}
 
 	"Detective scan found body"
@@ -141,6 +157,7 @@
 		"chi"		"扫描完成：{player}{1} {default}扫描了尸体。凶手：{role t}{2} {default}| 武器：{highlight}{3}"
 		"de"		"Untersuchung abgeschlossen: {player}{1} {default}untersuchte ein Körper. Mörder: {role t}{2} {default}| Waffe: {highlight}{3}"
 		"pl"		"Skan ukończony: {player}{1} {default}przeskanował ciało. Zabójca: {role t}{2} {default}| Broń: {highlight}{3}"
+		"da"		"Scanning gennemført: {player}{1} {default}skannede krop. Morder: {role t}{2} {default}| Våben: {highlight}{3}"
 	}
 
 	"Health Station"
@@ -150,6 +167,7 @@
 		"chi"		"医疗站 - {1}"
 		"de"		"Health Station - {1}"
 		"pl"		"Stacja lecząca - {1}"
+		"da"		"Sundhedsstation - {1}"
 	}
 
 	"Please wait till your team is assigned"
@@ -158,6 +176,7 @@
 		"chi"		"请稍等，您尚未被分配角色。"
 		"de"		"Bitte warte, deine Rolle wurde noch nicht zugewiesen."
 		"pl"		"Zaczekaj, nie otrzymałeś jeszcze żadnej roli."
+		"da"		"Venligst vent, du har ikke fået tildelt en rolle."
 	}
 
 	"You don't have enough money"
@@ -167,6 +186,7 @@
 		"chi"		"您的 {1} 不足！"
 		"de"		"Du hast nicht genug {1}!"
 		"pl"		"Nie masz wystarczająco {1}!"
+		"da"		"Du har ikke nok endnu {1}!"
 	}
 
 	"Traitors"
@@ -175,6 +195,7 @@
 		"chi"		"叛徒"
 		"de"		"Traitor"
 		"pl"		"Zdrajcy"
+		"da"		"Foræddere"
 	}
 
 	"Detectives"
@@ -183,6 +204,7 @@
 		"chi"		"警探"
 		"de"		"Detektive"
 		"pl"		"Detektywi"
+		"da"		"Detektiver"
 	}
 
 	"Innocents"
@@ -191,6 +213,7 @@
 		"chi"		"平民"
 		"de"		"Innocents"
 		"pl"		"Niewinni"
+		"da"		"Uskyldige"
 	}
 
 	"Inspected body. The extracted data are the following"
@@ -199,6 +222,7 @@
 		"chi"		"已检视尸体\n下列是提取的数据："
 		"de"		"Körper inspiziert\nDie folgenden Daten wurden entnommen:"
 		"pl"		"Ciało zostało sprawdzone\nOto dane które udało się wydobyć:"
+		"da"		"Krop Inspiceret\nFølgende data blev overført:"
 	}
 
 	"Victim name"
@@ -208,6 +232,7 @@
 		"chi"		"受害者：{1}"
 		"de"		"Name des Opfers: {1}"
 		"pl"		"Nazwa ofiary: {1}"
+		"da"		"Offerets Navn: {1}"
 	}
 
 	"Team victim"
@@ -217,6 +242,7 @@
 		"chi"		"角色：{1}"
 		"de"		"Rolle: {1}"
 		"pl"		"rola: {1}"
+		"da"		"Rolle: {1}"
 	}
 
 	"Elapsed since his death"
@@ -226,6 +252,7 @@
 		"chi"		"已死亡时间：{1} 秒"
 		"de"		"Todeszeitpunkt: vor {1} Sekunde(n)"
 		"pl"		"Czas od śmierci: {1} sekund"
+		"da"		"Tid siden død: {1} sekund(er)"
 	}
 
 	"The weapon used has been"
@@ -235,6 +262,7 @@
 		"chi"		"凶手武器：{1}"
 		"de"		"Mordwaffe: {1}"
 		"pl"		"Broń mordercy: {1}"
+		"da"		"Drabsvåben: {1}"
 	}
 
 	"The weapon used has been: himself (suicide)"
@@ -243,6 +271,7 @@
 		"chi"		"自杀"
 		"de"		"Selbst (Suizid)"
 		"pl"		"On sam (samobójstwo)"
+		"da"		"Ham selv (selvmord)"
 	}
 
 	"T channel"
@@ -252,6 +281,7 @@
 		"chi"		"{default}[{role t}叛徒{default}] {role t}{1}: {role i}{2}"
 		"de"		"{default}[{role t}Traitor{default}] {role t}{1}: {role i}{2}"
 		"pl"		"{default}[{role t}Zdrajcy{default}] {role t}{1}: {role i}{2}"
+		"da"		"{default}[{role t}Forædder{default}] {role t}{1}: {role i}{2}"
 	}
 
 	"D channel"
@@ -261,6 +291,7 @@
 		"chi"		"{default}[{role d}警探{default}] {role d}{1}: {role i}{2}"
 		"de"		"{default}[{role d}Detektive{default}] {role d}{1}: {role i}{2}"
 		"pl"		"{default}[{role d}Detektywi{default}] {role d}{1}: {role i}{2}"
+		"da"		"{default}[{role d}Detektiv{default}] {role d}{1}: {role i}{2}"
 	}
 
 	"You dont have it!"
@@ -269,6 +300,7 @@
 		"chi"		"您尚未拥有！"
 		"de"		"Du hast das nicht!"
 		"pl"		"Nie posiadasz tego!"
+		"da"		"Du har den ikke!"
 	}
 
 	"TTT Shop"
@@ -278,6 +310,7 @@
 		"chi"		"匪城疑云商店\n您的 {2}: {1}"
 		"de"		"TTT Shop\nDeine {2}: {1}"
 		"pl"		"Sklep TTT\nTwoje {2}: {1}"
+		"da"		"TTT Shop\nDin {2}: {1}"
 	}
 
 	"credits earned"
@@ -287,6 +320,7 @@
 		"chi"		"您赚得了 {1} {3}\n您当前的{3}为：{2}"
 		"de"		"Du erhälst {1} {3}\nDu hast nun {2} {3}"
 		"pl"		"Otrzymałeś {1} {3}\nAktualnie posiadasz {2} {3}"
+		"da"		"Du har tjent {1} {3}\nDine nuværende {3} er: {2}"
 	}
 
 	"lost credits"
@@ -296,6 +330,7 @@
 		"chi"		"您失去了 {1} {3}\n您当前的{3}为：{2}"
 		"de"		"Du verlierst {1} {3}\nDu hast nun {2} {3}"
 		"pl"		"Straciłeś {1} {3}\nAktualnie posiadasz {2} {3}"
+		"da"		"Du tabte {1} {3}\nDine nuværende {3} er: {2}"
 	}
 
 	"karma earned"
@@ -305,6 +340,7 @@
 		"chi"		"您赚得了 {1} 业力\n您当前业力为：{2}"
 		"de"		"Du erhälst {1} Karma\nDein Karma ist nun {2}"
 		"pl"		"Otrzymałeś {1} karmy\nAktualnie posiadasz {2} karmy"
+		"da"		"Du har tjent {1} karma\nDin karma er nu: {2}"
 	}
 
 	"lost karma"
@@ -314,6 +350,7 @@
 		"chi"		"您失去了 {1} 业力\n您当前业力为：{2}"
 		"de"		"Du verlierst {1} Karma\nDein Karma ist nun {2}"
 		"pl"		"Straciłeś {1} karmy\nAktualnie posiadasz {2} karmy"
+		"da"		"Du tabte {1} karma\nDin karma er nu: {2}"
 	}
 
 	"no logs yet"
@@ -322,6 +359,7 @@
 		"chi"		"尚无日志"
 		"de"		"Noch keine Protokolle"
 		"pl"		"Brak logów na ten moment"
+		"da"		"Ingen logs endnu"
 	}
 
 	"See your console"
@@ -330,6 +368,7 @@
 		"chi"		"收到日志！请前往控制台查看日志。"
 		"de"		"Protokolle erhalten! Schau in deiner Konsole um die Protokolle zu sehen."
 		"pl"		"Logi otrzymane! Sprawdź swoją konsolę by zobaczyć logi."
+		"da"		"Logs modtaget! Tjek din konsol for at se dine logs."
 	}
 
 	"you cant see logs"
@@ -338,6 +377,7 @@
 		"chi"		"您现在无法查看日志，您必须在死亡状态或回合未开始时查看。"
 		"de"		"Du kannst aktuell die Protokolle nicht sehen, dafür musst du tot sein oder die Runde vorbei."
 		"pl"		"Nie możesz zobaczyć teraz logów, musisz nieżyć lub runda musi być nieaktywna."
+		"da"		"Du kan ikke se dine logs nu, du skal enten være død eller den næste runde skal være inaktiv"
 	}
 
 	"Receiving logs"
@@ -346,6 +386,7 @@
 		"chi"		"正接收日志... 请稍候。"
 		"de"		"Erhalte Protokolle... Bitte warte ein Moment."
 		"pl"		"Otrzymywanie logów... Poczekaj chwilkę."
+		"da"		"Modtager logs... Venligst vent et øjeblik."
 	}
 
 	"Found Innocent"
@@ -355,6 +396,7 @@
 		"chi"		"发现尸体：{player}{1} {default}发现了 {role i}{2}{default} 的尸体。"
 		"de"		"Körper gefunden: {player}{1} {default}hat {role i}{2}{default} gefunden."
 		"pl"		"Ciało znalezione: {player}{1} {default}znalazł {role i}{2}{default}."
+		"da"		"Krop fundet: {player}{1} {default}fandt {role i}{2}{default}."
 	}
 
 	"Found Detective"
@@ -364,6 +406,7 @@
 		"chi"		"发现尸体：{player}{1} {default}发现了 {role d}{2}{default} 的尸体。"
 		"de"		"Körper gefunden: {player}{1} {default}hat {role d}{2}{default} gefunden."
 		"pl"		"Ciało znalezione: {player}{1} {default}znalazł {role d}{2}{default}."
+		"da"		"Krop fundet: {player}{1} {default}fandt {role d}{2}{default}."
 	}
 
 	"Found Traitor"
@@ -373,6 +416,7 @@
 		"chi"		"发现尸体：{player}{1} {default}发现了 {role t}{2}{default} 的尸体。"
 		"de"		"Körper gefunden: {player}{1} {default}hat {role t}{2}{default} gefunden."
 		"pl"		"Ciało znalezione: {player}{1} {default}znalazł {role t}{2}{default}."
+		"da"		"Krop fundet: {player}{1} {default}fandt {role t}{2}{default}."
 	}
 
 	"Your bomb is not armed."
@@ -381,6 +425,7 @@
 		"chi"		"您的炸弹尚未预位。"
 		"de"		"Deine Bombe ist noch nicht scharf."
 		"pl"		"Twoja bomba nie jest uzbrojona."
+		"da"		"Din bombe er ikke armeret."
 	}
 
 	"Your bomb is now armed."
@@ -389,6 +434,7 @@
 		"chi"		"您的炸弹现已预位。"
 		"de"		"Deine Bombe ist nun scharf."
 		"pl"		"Twoja bomba jest już uzbrojona."
+		"da"		"Din bombe er nu armeret."
 	}
 
 	"bomb will arm in few seconds, double tab F to explode"
@@ -398,6 +444,7 @@
 		"chi"		"炸弹将于 {highlight}{1}{default} 秒后预位，连按两下 {highlight}F{default} 即可引爆。"
 		"de"		"Bombe scharf in {highlight}{1}{default} Sekunde(n), drücke zweimal {highlight}F{default} um die explodieren zu lassen."
 		"pl"		"Bomba uzbroi się za {highlight}{1}{default} sekund, naciśnij {highlight}F{default} dwa razy, aby eksplodować."
+		"da"		"Bomben bliver armeret om {highlight}{1}{default} sekunder, tryk {highlight}F{default} 2 gange for at eksplodere bomben."
 	}
 
 	"Your Karma is too low"
@@ -406,6 +453,7 @@
 		"chi"		"您由于业力值过低已被封禁！"
 		"de"		"Du wurdest gebannt, weil dein Karma zu niedrig ist!"
 		"pl"		"Zostałeś zbanowany, ponieważ Twoja karma była zbyt mała!"
+		"da"		"Du blev bannet grundet for lav karma!"
 	}
 
 	"TRAITORS HAS BEEN SELECTED"
@@ -415,6 +463,7 @@
 		"chi"		"当前共有 {role t}{1} 名叛徒{default}。"
 		"de"		"Es gibt {role t}{1} Traitor{default}."
 		"pl"		"Jest {role t}{1} Zdrajców{default}."
+		"da"		"Der er {role t}{1} Forædder(e){default}."
 	}
 
 	"Suicide Blocked"
@@ -423,6 +472,7 @@
 		"chi"		"已阻止自杀"
 		"de"		"Suizid blockiert"
 		"pl"		"Samobójstwa są zablokowane"
+		"da"		"Selvmord er blokeret"
 	}
 
 	"Right click to plant the C4"
@@ -431,6 +481,7 @@
 		"chi"		"右击以安放 C4！"
 		"de"		"Rechtsklick um das C4 zu platzieren!"
 		"pl"		"Kliknij prawy przycisk, aby podłożyć bombę!"
+		"da"		"Højre-klik for at plante C4!"
 	}
 
 	"You already have an active Health Station"
@@ -439,6 +490,7 @@
 		"chi"		"您已有了活跃中的医疗站！"
 		"de"		"Du hast bereits eine aktive Health Station!"
 		"pl"		"Już masz aktywną stację leczącą!"
+		"da"		"Du har allerede en aktiv sundhedsstation!"
 	}
 
 	"The player who RDM'd you is no longer available"
@@ -447,6 +499,7 @@
 		"chi"		"RDM 您的玩家已不可用！"
 		"de"		"Der Spieler der dich RDM'd hast, ist nicht mehr da!"
 		"pl"		"Gracz który Cię zRDM'ował nie jest już dostępny!"
+		"da"		"Spilleren der RDM'ed dig er ikke længere tilgængelig!"
 	}
 
 	"You were RDM'd"
@@ -456,6 +509,7 @@
 		"chi"		"您被 {1} RDM!"
 		"de"		"Du wurdest von {1} RDM'd!"
 		"pl"		"Zostałeś zRDM'owany przez {1}!"
+		"da"		"Du blev RDM'ed af {1}!"
 	}
 
 	"Forgive"
@@ -464,6 +518,7 @@
 		"chi"		"饶恕"
 		"de"		"Vergeben"
 		"pl"		"Przebacz"
+		"da"		"Tilgiv"
 	}
 
 	"Punish"
@@ -472,6 +527,7 @@
 		"chi"		"惩罚"
 		"de"		"Bestrafen"
 		"pl"		"Ukaraj"
+		"da"		"Straf"
 	}
 
 	"Choose Punish"
@@ -481,6 +537,7 @@
 		"chi"		"{1} 选择以牙还牙 {2}！"
 		"de"		"{1} bestraft {2} für den RDM!"
 		"pl"		"{1} ukarał {2} za RDM'a!"
+		"da"		"{1} har valgt at straffe {2} for at RDM'e dem!"
 	}
 
 	"Choose Forgive Victim"
@@ -490,6 +547,7 @@
 		"chi"		"您选择饶恕 {1}！"
 		"de"		"Du vergibst {1} für den RDM!"
 		"pl"		"Wybrałeś przebaczenie dla {1} za zRDM'owanie Ciebie!"
+		"da"		"Du har valgt at tilgive {1} for at RDM'e dig!"
 	}
 
 	"Choose Forgive Attacker"
@@ -499,6 +557,7 @@
 		"chi"		"{1} 选择了饶恕您！"
 		"de"		"{1} vergibt dir für deinen RDM!"
 		"pl"		"{1} wybrał dla Ciebie przebaczenie za zRDM'owanie go!"
+		"da"		"{1} har valgt at tilgive dig fro at RDM'e dem!"
 	}
 
 	"Player is Now Traitor"
@@ -508,6 +567,7 @@
 		"chi"		"{player}{1} {default}现为{role t}叛徒{default}！"
 		"de"		"{player}{1} {default}ist nun ein {role t}Traitor{default}!"
 		"pl"		"{player}{1} {default}jest teraz {role t}Zdrajcą{default}!"
+		"da"		"{player}{1} {default}er nu en {role t}Forædder{default}!"
 	}
 
 	"Player is Now Detective"
@@ -517,6 +577,7 @@
 		"chi"		"{player}{1} {default}现为{role d}警探{default}！"
 		"de"		"{player}{1} {default}ist nun ein {role d}Detektiv{default}!"
 		"pl"		"{player}{1} {default}jest teraz {role d}Detektywem{default}!"
+		"da"		"{player}{1} {default}er nu en {role d}Detektiv{default}!"
 	}
 
 	"You Are Unassigned"
@@ -525,6 +586,7 @@
 		"chi"		"您的角色尚未被分配！"
 		"de"		"Dir wurde noch keine Rolle zugewiesen!"
 		"pl"		"Twoja rola nie została jeszcze Ci przyznana!!"
+		"da"		"Du er endnu ikke blevet tildelt en rolle!"
 	}
 
 	"You Are Now Innocent"
@@ -533,6 +595,7 @@
 		"chi"		"您现在是{role i}平民{default}！"
 		"de"		"Du bist nun ein {role i}Innocent{default}!"
 		"pl"		"Jesteś {role i}Niewinnym{default}!"
+		"da"		"Du er en {role i}Uskyldig{default}!"
 	}
 
 	"You Are Now Traitor"
@@ -541,6 +604,7 @@
 		"chi"		"您现在是{role t}叛徒{default}！"
 		"de"		"Du bist nun ein {role t}Traitor{default}!"
 		"pl"		"Jesteś {role t}Zdrajcą{default}!"
+		"da"		"Du er en {role t}Forædder{default}!"
 	}
 
 	"You Are Now Detective"
@@ -549,6 +613,7 @@
 		"chi"		"您现在是{role d}警探{default}！"
 		"de"		"Du bist nun ein {role d}Detektiv{default}!"
 		"pl"		"Jesteś {role d}Detektywem{default}!"
+		"da"		"Du er en {role d}Detektiv{default}!"
 	}
 
 	"Triggered Falling Building"
@@ -558,6 +623,7 @@
 		"chi"		"{1} 以平民的身份触发了建筑物倒塌。"
 		"de"		"{1} triggered the falling building as an Innocent."
 		"pl"		"{1} odpalił spadający budynek jako Niewinny."
+		"da"		"{1} udløste den faldende bygning som Uskyldig."
 	}
 
 	"Bomb Detonated"
@@ -566,6 +632,7 @@
 		"chi"		"您的炸弹已被引爆！"
 		"de"		"Deine Bombe ist explodiert!"
 		"pl"		"Twoja bomba została zdetonowana!"
+		"da"		"Din bombe er eksploderet!"
 	}
 
 	"Set C4 Timer"
@@ -574,6 +641,7 @@
 		"chi"		"设置 C4 起爆计时..."
 		"de"		"Das C4 explodiert in..."
 		"pl"		"Ustaw czas dla C4..."
+		"da"		"Indstil C4 timeren..."
 	}
 
 	"Seconds"
@@ -583,6 +651,7 @@
 		"chi"		"{1} 秒"
 		"de"		"{1} Sekunde(n)"
 		"pl"		"{1} sekund"
+		"da"		"{1} sekund(er)"
 	}
 
 	"Defuse C4"
@@ -591,6 +660,7 @@
 		"chi"		"拆除 C4！"
 		"de"		"Entschärfe das C4!"
 		"pl"		"Rozbrój C4!"
+		"da"		"Desarmer C4'eren!"
 	}
 
 	"C4 Wire"
@@ -600,6 +670,7 @@
 		"chi"		"引线 {1}"
 		"de"		"Kabel {1}"
 		"pl"		"Kabel {1}"
+		"da"		"Kabel {1}"
 	}
 
 	"You Defused Bomb"
@@ -609,6 +680,7 @@
 		"chi"		"您成功拆除了 {player}{1}{default} 的炸弹！"
 		"de"		"Du hast die Bombe von {player}{1}{default} entschärft!"
 		"pl"		"Właśnie rozbroiłeś bomę {player}{1}{default}'a!"
+		"da"		"Du har desarmeret {player}{1}{default}'s bombe!"
 	}
 
 	"Has Defused Bomb"
@@ -618,6 +690,7 @@
 		"chi"		"{player}{1} {default}拆除了您的炸弹！"
 		"de"		"{player}{1} {default}hat deine Bombe entschärft!"
 		"pl"		"{player}{1} {default}rozbroił Twoją bombę!"
+		"da"		"{player}{1} {default}har desarmeret din bombe!"
 	}
 
 	"Failed Defuse"
@@ -626,6 +699,7 @@
 		"chi"		"拆除失败！"
 		"de"		"Entschärfung fehlgeschlagen!"
 		"pl"		"Nieudało się rozbroić bomby!"
+		"da"		"Desarmering fejlede!"
 	}
 
 	"Alive to Plant"
@@ -634,6 +708,7 @@
 		"chi"		"您必须存活才能安放炸弹！"
 		"de"		"Du musst leben um eine Bombe zu platzieren!"
 		"pl"		"Musisz być żywy, aby podłożyć bombę!"
+		"da"		"Du skal være i live for at plante bomben!"
 	}
 
 	"Will Explode In"
@@ -643,6 +718,7 @@
 		"chi"		"正在部署 C4，炸弹将于 {highlight}{1} {default}后引爆。"
 		"de"		"Platzierung des C4 das in {highlight}{1} {default}Sekunde(n) explodieren wird."
 		"pl"		"Ustawiłeś C4 które wybuchnie za {highlight}{1} {default}sekund."
+		"da"		"Monterer en C4 der vil eksploderer om {highlight}{1} {default}sekund(er)."
 	}
 
 	"Bomb Was Not Found"
@@ -651,6 +727,7 @@
 		"chi"		"未找到您的炸弹！"
 		"de"		"Deine Bombe wurde nicht gefunden!"
 		"pl"		"Twoja bomba nie została znaleziona!"
+		"da"		"Bomben blev ikke fundet!"
 	}
 
 	"Wire Is"
@@ -660,6 +737,7 @@
 		"chi"		"解爆引线为 {highlight}{1}{default}!"
 		"de"		"Das Kabel zur Entschärfung ist {highlight}{1}{default}!"
 		"pl"		"Kabel do rozbrojenia to {highlight}{1}{default}!"
+		"da"		"Desarmerings kablet er {highlight}{1}{default}!"
 	}
 
 	"Your Traitor Partners"
@@ -668,6 +746,7 @@
 		"chi"		"您的叛徒盟友为："
 		"de"		"Deine Traitor Partner sind:"
 		"pl"		"Twoimi wspólnikami są:"
+		"da"		"Dine Forædder partnere er:"
 	}
 
 	"No Traitor Partners"
@@ -676,6 +755,7 @@
 		"chi"		"您没有盟友。"
 		"de"		"Du hast keine Partner."
 		"pl"		"Nie masz żadnych wspólników."
+		"da"		"Du har ingen partnere."
 	}
 
 	"Kick Bad Name"
@@ -685,6 +765,7 @@
 		"chi"		"请先从您的名字中删去 {1}！"
 		"de"		"Entferne das Wort {1} aus deinem Namen!"
 		"pl"		"Usuń słowo {1} z swojej nazwy!"
+		"da2		"Fjern ordet {1} fra dit navn!"
 	}
 
 	"Health Station Deployed"
@@ -693,6 +774,7 @@
 		"chi"		"已部署医疗站，站在其附近以恢复血量！"
 		"de"		"Health Station platziert! Bleib in der Reichweite der Health Station um geheilt zu werden"
 		"pl"		"Stacja lecząca postawiona! Stój blisko niej, aby otrzymać HP!"
+		"da"		"Sundhedsstation indsat. Stå i nærheden af den for at få HP!"
 	}
 
 	"Healing From"
@@ -702,6 +784,7 @@
 		"chi"		"正在从 {player}{1}{default} 的医疗站恢复血量！"
 		"de"		"Du wirst von {player}{1}{default}'s Health Station geheilt!"
 		"pl"		"Leczenie z stacji {player}{1}{default}'a!"
+		"da"		"Healer fra {player}{1}{default}'s sundhedsstation!"
 	}
 
 	"Health Station Out Of Charges"
@@ -710,6 +793,7 @@
 		"chi"		"此医疗站的电量不足！请等待其充电完毕！"
 		"de"		"Diese Health Station ist leer! Warte auf Regenerierung!"
 		"pl"		"Ta stacja nie ma już ładunków! Zaczekaj aż się naładuje!"
+		"da"		"Denne sundhedsstation har ikke flere opladninger! Vent på at den genoplader!"
 	}
 
 	"Traitor List"
@@ -726,6 +810,7 @@
 		"chi"		"您好 {1}，\n欢迎来到匪城疑云。\n\n您熟悉规则吗？"
 		"de"		"Hallo {1},\nWillkommen in Trouble in Terrorist Town.\n\nKennst du bereits die Regeln?"
 		"pl"		"Witaj {1},\nWitamy na serwerze Trouble in Terrorist Town.\n\nJesteś zaznajomiony z zasadami?"
+		"da"		"Hej {1}, \nVelkommen til Trouble in Terrorist Town.\n\nEr du bekendt med reglerne?"
 	}
 
 	"WM Yes"
@@ -734,6 +819,7 @@
 		"chi"		"是，我熟悉规则！"
 		"de"		"Ja, Ich kenne die Regeln!"
 		"pl"		"Tak, jestem zaznajomiony z nimi!"
+		"da"		"Ja, jeg kender reglerne!"
 	}
 
 	"WM Kick Message"
@@ -742,6 +828,7 @@
 		"chi"		"您正在挂机或关闭了规则菜单！"
 		"de"		"Du bist Inaktiv oder hast du Regel Menü geschlossen!"
 		"pl"		"Byłeś nieaktywny lub zamknąłeś menu z zasadami!"
+		"da"		"Du var inaktiv eller lukkede regel menuen!"
 	}
 
 	"AM Question"
